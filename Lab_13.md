@@ -18,16 +18,7 @@ GitHub is the best-known Git provider with 40 million users. Many high-profiled 
 #### Lab Environment
 There is no requirement for any setup.
 
-There should be terminal opened already. You can also open New terminal by Clicking `File` > `New` > `Terminal` from the top menu.
-
-Run the following command in **terminal**:
-`rm -rf ~/work/tutorial && mkdir -p ~/work/tutorial && cd ~/work/tutorial`
-
-**Important:** Instructions for this lab are written in such a way that it also shows expected output from the git cli. Only run commands that start with **$** as shown below.  To copy and paste: use **Control-C** and to paste inside of a terminal, use **Control-V**
-
-![](./sample.png)
-
-You can access lab at `<host-ip>:<port>/lab/workspaces/lab13`
+**Important:** Instructions for this lab are written in such a way that it also shows expected output from the git cli. Only run commands that start with **$** as shown below.
 
 
 Setting up an organization at GitHub
@@ -50,7 +41,7 @@ organizations behind open source projects.
 ### Getting ready
 
 You will need a user account at GitHub. For this recipe, we will use the
-GitHub user `johndoepackt` . Any user can create an
+GitHub user `fenago` . Any user can create an
 organization. 
 
 If you don't have a GitHub account, it is time to create one. Once you
@@ -161,7 +152,7 @@ customer.
     follows:
 
 ```
-$ git clone https://github.com/JohnDoePacktOrg/nomen-nescio.git
+$ git clone https://github.com/fenagoOrg/nomen-nescio.git
 $ cd nomen-nescio
 $ ls -a
 
@@ -207,7 +198,7 @@ Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 330 bytes | 330.00 KiB/s, done.
 Total 3 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/JohnDoePacktOrg/nomen-nescio.git
+To https://github.com/fenagoOrg/nomen-nescio.git
  * [new branch] update-readme -> update-readme
 ```
 

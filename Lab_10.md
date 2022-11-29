@@ -19,19 +19,7 @@ In this lab, we will cover the following recipes:
 #### Lab Environment
 There is no requirement for any setup.
 
-There should be terminal opened already. You can also open New terminal by Clicking `File` > `New` > `Terminal` from the top menu.
-
-Run the following command in **terminal**:
-`rm -rf ~/work/tutorial && mkdir -p ~/work/tutorial && cd ~/work/tutorial`
-
-**Important:** Instructions for this lab are written in such a way that it also shows expected output from the git cli. Only run commands that start with **$** as shown below.  To copy and paste: use **Control-C** and to paste inside of a terminal, use **Control-V**
-
-![](./sample.png)
-
- paste: use **Control-C** and to paste inside of a terminal, use **Control-V**
-
-You can access lab at `<host-ip>:<port>/lab/workspaces/lab10`
-
+**Important:** Instructions for this lab are written in such a way that it also shows expected output from the git cli. Only run commands that start with **$** as shown below.
 
 
 Undo – Remove a commit completely
