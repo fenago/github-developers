@@ -163,14 +163,8 @@ Switched to a new branch 'lastBugFix'
     `lastBugFix` branch is checked out and another
     `BugFix` branch is at the same commit hash:
 
-**Important:** gitk is a graphical history viewer. It is a powerful GUI shell over git log and git grep. gitk will not work in this lab environment, it will work in desktop environemnt e-g windows, ubuntu desktop:
 
-This can be shown via a **gitk** screenshot as follows:
-
-![](./images/320ad534-cb87-4d5e-af88-a031592fdbf3.png)
-
-4.  Instead of using Gitk, you can also add `-v` to the
-    `git branch`command or even another `-v` 
+4.  You can add `-v` to the `git branch` command
 
 ```
 $ git branch -v 
@@ -452,7 +446,7 @@ HEAD is now at da6e87b Prepare post 3.1.0 builds
 $ git merge origin/stable-3.2 --quiet
 ```
 
-5.  You can see the difference using Gitk. The following screenshot
+5.  You can see the difference. The following screenshot
     shows the fast- forward merge; as you can see, our
     `remoteOldBugFix` branch points to
     `origin/stable-3.2` :

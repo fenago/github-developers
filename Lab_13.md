@@ -1,6 +1,6 @@
 <img align="right" src="./logo-small.png">
 
-# Lab: Getting Started with GitHub
+# Lab: GitHub Organization
 In this lab, we will cover the following recipes:
 
 - Setting up an organization at GitHub

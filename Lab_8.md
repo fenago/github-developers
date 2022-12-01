@@ -103,8 +103,7 @@ Date:   Wed Dec 18 21:16:13 2013 +0100
     change when updating the commit message. Since we have changed the
     content of the `HEAD` commit, we are no longer based on
     the `HEAD` commit of the `origin/stable-3.2` 
-    branch. This becomes visible in `gitk` and
-    `git status` :
+    branch. This becomes visible in `git status`:
 
 ```
 $ git status
@@ -117,16 +116,7 @@ nothing to commit, working directory clean
 ```
 
 6.  As you can see from the output, our branch has diverged from
-    `origin/stable-3.2` ; this is also visible from
-    `gitk` . Note that we can specify which branches and
-    commits we want to see with `gitk` . In this case, we want
-    to see `origin/stable-3.2` and `HEAD` :
-
-**Important:** gitk is a graphical history viewer. It is a powerful GUI shell over git log and git grep. Below command will not in this lab environment, it will work in desktop environemnt e-g windows, ubuntu desktop:
-
-```
-$ gitk origin/stable-3.2 HEAD
-```
+    `origin/stable-3.2` ; Let's see `origin/stable-3.2` and `HEAD` :
 
 The following is the screenshot for this:
 
