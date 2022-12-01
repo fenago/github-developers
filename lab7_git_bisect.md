@@ -57,9 +57,8 @@ intrinsic understanding of `git bisect` by the end of the exercise.
     git add -A && git commit -m "Adding the word 'stream'"
     ```
     
-    
-
     Output:
+
     ![](./images/Screen%20Shot%202012-04-17%20at%2010.56.04%20AM.png)
 
 3.  #### Find the bug in 'test.txt' file.
@@ -102,13 +101,17 @@ intrinsic understanding of `git bisect` by the end of the exercise.
 4.  #### Let the git bisect wizard know of a *good* commit.
 
     In this case, it was the 'Adding the word boat' commit we picked
-    above.![](./images/Screen%20Shot%202012-04-17%20at%2011.16.10%20AM.png)
+    above.
+    
+    ![](./images/Screen%20Shot%202012-04-17%20at%2011.16.10%20AM.png)
 
 5.  #### Let the git bisect wizard know of a *bad* commit.
 
     In this case, let's use the very last commit in the repository,
     since we know that had the word 'car' in
-    it.![](./images/Screen%20Shot%202012-04-17%20at%2011.18.34%20AM_0.png)
+    it.
+    
+    ![](./images/Screen%20Shot%202012-04-17%20at%2011.18.34%20AM_0.png)
 
 6.  #### Look at the contents of test.txt
 
@@ -137,7 +140,9 @@ intrinsic understanding of `git bisect` by the end of the exercise.
 9.  #### The word \'boat\' is there = GOOD!
 
     Now we see the word 'boat', so this is a *good* commit. Let's let
-    git bisect know how good it is: `git bisect good`![](./images/Screen%20Shot%202012-04-17%20at%2011.41.01%20AM.png)
+    git bisect know how good it is: `git bisect good`
+    
+    ![](./images/Screen%20Shot%202012-04-17%20at%2011.41.01%20AM.png)
 
 10. #### ALL DONE - The bad commit has been found!
 

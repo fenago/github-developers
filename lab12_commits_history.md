@@ -1,6 +1,6 @@
 <img align="right" src="./logo-small.png">
 
-# Lab: Recovering from Mistakes (Advanced)
+# Lab: Reverting Commits and Rewriting History
 In this lab, we will cover the following recipes:
 
 - Undo – Remove a commit completely
@@ -24,8 +24,6 @@ There is no requirement for any setup.
 
 Undo – Remove a commit completely
 ---------------------------------
-
-* * * * *
 
 In this example, we'll learn how we can undo a commit as if it had never
 happened. We'll learn how we can use the reset command to effectively

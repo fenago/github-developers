@@ -47,15 +47,7 @@ Let\'s create a text file just to give it a try.
 ![](./images/B04149_01_06.jpg)
 
 
-And now what? Is that all? No! We have to tell Git to put this file in
-your repo, [*explicitly*]. Git doesn\'t do anything that you
-don\'t want it to. If you have some spare files or temp ones in your
-repo, Git will not be compatible with them, but will only remind you
-that there are some files in your repo that are not under version
-control (in the next chapter, we will see how to instruct Git to ignore
-them when necessary).
-
-Ok, back to the topic. I want `MyFile.txt` under the control
+We want `MyFile.txt` under the control
 of Git, so let\'s add it, as shown here:
 
 

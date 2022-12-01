@@ -1,6 +1,6 @@
 <img align="right" src="./logo-small.png">
 
-# Lab: Storing Additional Information in Your Repository
+# Lab: Viewing Local Project History
 In this lab, we will cover the following recipes:
 
 - Adding your first Git note
@@ -23,7 +23,6 @@ There is no requirement for any setup.
 Adding your first Git note
 --------------------------
 
-* * * * *
 
 We will add some extra information to the already released code. If we
 were doing it in the actual commits, we would see the commit hashes
@@ -37,8 +36,8 @@ example that's almost identical, you can clone the `jgit`
 repository as follows:
 
 ```
-$ git clone https://git.eclipse.org/r/jgit/jgit chapter5
-$ cd chapter5 
+$ git clone https://git.eclipse.org/r/jgit/jgit lab5
+$ cd lab5 
 ```
 
 ### How to do it...
@@ -261,8 +260,6 @@ configured editor and allow you to write a note to the commit.
 
 Separating notes by category
 ----------------------------
-
-* * * * *
 
 As we saw in the previous example, we can add notes to the commits;
 however, in some cases, it makes sense to store the information sorted

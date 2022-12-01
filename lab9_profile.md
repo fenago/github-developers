@@ -1,5 +1,5 @@
-Managing your profile README
-============================
+Lab: Managing your profile README
+=================================
 
 You can add a README to your GitHub profile to tell other people about
 yourself.

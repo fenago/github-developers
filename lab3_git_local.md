@@ -1,6 +1,7 @@
 <img align="right" src="./logo-small.png">
 
-# Lab: Branching, Merging, and Options
+# Lab: Working Locally and Branching with Git
+
 In this lab, we will cover the following recipes:
 
 - Managing your local branches
@@ -26,8 +27,6 @@ There is no requirement for any setup.
 
 Managing your local branches
 ----------------------------
-
-* * * * *
 
 Suppose you just have your local Git repository, and, at the moment, you
 have no intention of sharing the code with others; you can, however,

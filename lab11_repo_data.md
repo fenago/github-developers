@@ -42,8 +42,8 @@ clones you might already have.
 Clone the `jgit` repository as follows:
 
 ```
-$ git clone https://git.eclipse.org/r/jgit/jgit chapter6 
-$ cd chapter6 
+$ git clone https://git.eclipse.org/r/jgit/jgit lab11 
+$ cd lab11 
 ```
 
 ### How to do it...
@@ -528,7 +528,7 @@ easier to produce a nice release note as well.
 As we will mostly be grepping the Git database in these examples, we
 really don't need to check something out or be at a specific commit for
 this example. So, if you are still lurking around in the
-`chapter6` folder, we can continue.
+`lab11` folder, we can continue.
 
 ### How to do it...
 
