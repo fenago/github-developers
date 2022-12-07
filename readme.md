@@ -23,3 +23,4 @@ Labs for this course are available at path shared below.
 12. Reverting Commits and Rewriting History
 13. Communicate using Markdown
 14. GitHub Pages
+15. Connect the Dots in a GitHub Repository
