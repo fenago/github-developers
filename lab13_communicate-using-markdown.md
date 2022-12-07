@@ -1,4 +1,4 @@
-# Lab: Introduction to GitHub
+# Lab: Communicate using Markdown
 
 Open following URL in the browser and follow the instructions to complete the lab:
 
