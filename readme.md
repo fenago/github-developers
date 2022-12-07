@@ -21,3 +21,5 @@ Labs for this course are available at path shared below.
 10. GitHub Actions / Workflows
 11. Extracting Data from the Repository
 12. Reverting Commits and Rewriting History
+13. Communicate using Markdown
+14. GitHub Pages
